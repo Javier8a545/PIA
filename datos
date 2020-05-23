@@ -1,0 +1,8 @@
+nombre-entrada("Nombre:")
+Apellidos-entrada("Apellidos:")
+Se concatenan los valores str, junto con el literal "
+nombreCompletoánombre+""+apellidos
+Se asigna a la variable la representación en mayúsculas
+De lo que está que está.
+nombreCompletoánombreCompleto. superior()
+impresión(nombreCompleto)
